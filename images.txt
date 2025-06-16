@@ -4,3 +4,9 @@ clickhouse/clickhouse-server:21.10
 wurstmeister/zookeeper
 wurstmeister/kafka:2.12-2.1.0
 mysql:8.0
+mysql:5.7
+nacos-server:2.0.2
+rabbitmq
+redis
+seata-server:1.4.2
+sentinel-dashboard
