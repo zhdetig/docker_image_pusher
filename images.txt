@@ -1,5 +1,5 @@
-nacos-server:2.0.2
+nacos/nacos-server:2.0.2
 rabbitmq
 redis
-seata-server:1.4.2
-sentinel-dashboard
+seataio/seata-server:1.4.2
+bladex/sentinel-dashboard
