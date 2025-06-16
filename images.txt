@@ -1,4 +1,4 @@
 clickhouse/clickhouse-server:24.12
 clickhouse/clickhouse-server:21.10
-kafka:2.12-2.1.0
-zookeeper
+wurstmeister/zookeeper
+wurstmeister/kafka:2.12-2.1.0
