@@ -1,2 +1,1 @@
-alphacep/kaldi-cn:latest
-alphacep/kaldi-en:latest
+nginx:1.28
