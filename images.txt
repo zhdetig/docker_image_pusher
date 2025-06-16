@@ -1,5 +1,2 @@
-nacos/nacos-server:2.0.2
-rabbitmq
-redis
-seataio/seata-server:1.4.2
-bladex/sentinel-dashboard
+alphacep/kaldi-cn:latest
+alphacep/kaldi-en:latest
