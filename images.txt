@@ -1,4 +1,6 @@
+yandex/clickhouse-server:21.3.20-alpine
 clickhouse/clickhouse-server:24.12
 clickhouse/clickhouse-server:21.10
 wurstmeister/zookeeper
 wurstmeister/kafka:2.12-2.1.0
+mysql:8.0
