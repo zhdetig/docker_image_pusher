@@ -1,14 +1,2 @@
 elk
 clickhouse-server:21.3.20-alpine
-clickhouse-server:21.10
-clickhouse-server:24.12
-zookeeper
-kafka:2.12-2.1.0
-mariadb
-mysql:8.0
-mysql:5.7
-nacos-server:2.0.2
-rabbitmq
-redis
-seata-server:1.4.2
-sentinel-dashboard
