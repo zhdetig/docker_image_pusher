@@ -1,1 +1,1 @@
-nginx:1.28
+ghcr.io/coqui-ai/tts-cpu
